@@ -1,0 +1,4 @@
+PartcipantID:dsad
+block;trial;instanceNumber;question;solution;answer;submitted;timeSpent;error
+1;1;8;227+167 = ?;394;34243;1;2.583795;
+1;2;27;1.65+1.27+1.13 = ?  (Round to the nearest integer);4;;0;10.00994;

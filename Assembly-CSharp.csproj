@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\BoardManager.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
+     <None Include="Assets\DATAinf\Output\sads_12 July, 2017, 18-19_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Input\param.txt" />
      <None Include="Assets\DATAinf\Output\DSADSA_12 July, 2017, 17-51_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\DASDAS_12 July, 2017, 17-52_Math_TrialInfo.txt" />

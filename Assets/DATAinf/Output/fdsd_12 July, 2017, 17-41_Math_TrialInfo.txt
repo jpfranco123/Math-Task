@@ -1,4 +1,0 @@
-PartcipantID:fdsd
-block;trial;instanceNumber;question;solution;answer;submitted;timeSpent;error
-1;1;20;52/13 = ?;4;dfdsf;1;4.139196;
-1;2;5;435+465 = ?;900;900;1;5.600829;

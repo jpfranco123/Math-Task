@@ -1,4 +1,0 @@
-PartcipantID:sadS
-block;trial;instanceNumber;question;solution;answer;submitted;timeSpent;error
-1;1;1;28+15 = ?;43;DS;1;2.744965;
-1;2;25;(Round to the nearest integer)                 5.14+4.28+4.53 = ?  ;14;;0;10.00432;

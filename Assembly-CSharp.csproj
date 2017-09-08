@@ -49,6 +49,9 @@
      <Compile Include="Assets\Scripts\BoardManager.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
+     <None Include="Assets\DATAinf\Output\hgfhg_03 September, 2017, 19-26_Math_TrialInfo.txt" />
+     <None Include="Assets\DATAinf\Output\sadsa_03 September, 2017, 19-21_Math_TrialInfo.txt" />
+     <None Include="Assets\DATAinf\Output\dasdsa_12 July, 2017, 18-30_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\sads_12 July, 2017, 18-19_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Input\param.txt" />
      <None Include="Assets\DATAinf\Output\DSADSA_12 July, 2017, 17-51_Math_TrialInfo.txt" />
@@ -58,9 +61,11 @@
      <None Include="Assets\DATAinf\Output\12312_12 July, 2017, 17-42_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\dfjhsf_12 July, 2017, 17-39_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Input\param2.txt" />
+     <None Include="Assets\DATAinf\Output\ sassa_03 September, 2017, 19-33_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\fdsd_12 July, 2017, 17-41_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\fhgjhdsaf_11 July, 2017, 20-19_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\dsad_12 July, 2017, 17-44_Math_TrialInfo.txt" />
+     <None Include="Assets\DATAinf\Output\hgf_03 September, 2017, 19-31_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\sadS_12 July, 2017, 17-50_Math_TrialInfo.txt" />
      <None Include="Assets\DATAinf\Output\saa_12 July, 2017, 16-50_Math_TrialInfo.txt" />
  <Reference Include="UnityEngine.UI">

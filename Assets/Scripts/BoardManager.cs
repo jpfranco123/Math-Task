@@ -23,7 +23,7 @@ public class BoardManager : MonoBehaviour {
 
 	//Shows the question on the screen
 	public void setQuestion(){
-		int randInstance = GameManager.instanceRandomization[GameManager.trial-1];
+		int randInstance = GameManager.instanceRandomization[GameManager.generalTrial-1];
 		question = GameManager.instances [randInstance].question;// + " = ?";
 		Text Quest = GameObject.Find("Question").GetComponent<Text>();
 		Quest.text = question;
@@ -65,7 +65,9 @@ public class BoardManager : MonoBehaviour {
 		}
 	}
 		
-
+	/// <summary>
+	/// Setups the initial screen. TODO
+	/// </summary>
 	public void setupInitialScreen(){
 
 		//Button 
@@ -80,6 +82,11 @@ public class BoardManager : MonoBehaviour {
 
 	}
 
+	/// <summary> TODO...s
+	/// Submits the PI.
+	/// </summary>
+	/// <param name="pIDs">P I ds.</param>
+	/// <param name="start">Start.</param>
 	private void submitPID(string pIDs, GameObject start){
 
 		//Debug.Log (pIDs);
